@@ -1,0 +1,1 @@
+This is a read me file for start in python coding
